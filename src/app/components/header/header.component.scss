@@ -1,0 +1,14 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.title {
+  font-family: 'Custom-title';
+  font-size: 44px;
+  padding-top: 5px;
+}
+
+@font-face {
+  font-family: 'Custom-title';
+  src: url('../../../assets/fonts/LucyTheCat.otf') format('opentype');
+}
